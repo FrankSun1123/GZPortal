@@ -20,5 +20,9 @@
   "bugs": {
     "url": "https://github.com/FrankSun1123/GZPortal/issues"
   },
-  "homepage": "https://github.com/FrankSun1123/GZPortal#readme"
+  "homepage": "https://github.com/FrankSun1123/GZPortal#readme",
+  "devDependencies": {
+    "angular": "^1.6.2"
+  },
+  "dependencies": {}
 }
