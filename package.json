@@ -1,0 +1,24 @@
+{
+  "name": "gzportal",
+  "version": "1.0.0",
+  "description": "first github project.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FrankSun1123/GZPortal.git"
+  },
+  "keywords": [
+    "github",
+    "webpack",
+    "gulp"
+  ],
+  "author": "Json",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FrankSun1123/GZPortal/issues"
+  },
+  "homepage": "https://github.com/FrankSun1123/GZPortal#readme"
+}
